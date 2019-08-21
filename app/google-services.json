@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "232115925806",
+    "firebase_url": "https://vhujghj-c8571.firebaseio.com",
+    "project_id": "vhujghj-c8571",
+    "storage_bucket": "vhujghj-c8571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232115925806:android:fadaa622d7131440",
+        "android_client_info": {
+          "package_name": "com.innovatube.catalyst.presentation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232115925806-qe8vje6tmropr5ic652rqoomvipa672n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnnh0kjURn0BrSbvY4jHaPekXpWP2GEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232115925806-qe8vje6tmropr5ic652rqoomvipa672n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232115925806:android:1d41e48ad9777020",
+        "android_client_info": {
+          "package_name": "com.vega.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232115925806-m4uc1ph0usu1o9n0ug09fb9udjhl51b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vega.test",
+            "certificate_hash": "fcc65698d937292c058d278518862f33fb5b7aad"
+          }
+        },
+        {
+          "client_id": "232115925806-qe8vje6tmropr5ic652rqoomvipa672n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnnh0kjURn0BrSbvY4jHaPekXpWP2GEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232115925806-qe8vje6tmropr5ic652rqoomvipa672n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
